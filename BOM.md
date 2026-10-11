@@ -17,7 +17,7 @@
 | [L293D](https://www.lcsc.com/product-detail/Motor-Drivers_STMicroelectronics_L293D_L293D_C12340.html) | Dual motor driver for car wheels | 1 | $4.26 | $4.26 | [lcsc](https://www.lcsc.com/product-detail/Motor-Drivers_STMicroelectronics_L293D_L293D_C12340.html) |
 | [AMS1117-3.3](https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_Advanced-Monolithic-Systems-AMS1117-3-3_C6186.html) | Voltage regulator for the brain | 1 | $0.20 | $0.20 | [lcsc](https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_Advanced-Monolithic-Systems-AMS1117-3-3_C6186.html) |
 | **Parts subtotal** | — | — | — | **$23.46** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$23.46** | — |
+| **Tax & shipping** | — | — | — | **$30.00** | — |
+| **Total** | — | — | — | **$53.46** | — |
 
-$41.54 left of the tier's funding.
+$11.54 left of the tier's funding.
